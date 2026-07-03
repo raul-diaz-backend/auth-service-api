@@ -1,4 +1,4 @@
-![Auth Service API](auth-service-preview.png)
+![Auth Service API](preview.png)
 # 🔐 Auth Service API
 
 Microservicio de autenticación desarrollado con FastAPI que permite gestionar usuarios, login seguro y protección de rutas mediante JWT.
